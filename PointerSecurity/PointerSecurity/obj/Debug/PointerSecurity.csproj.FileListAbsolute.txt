@@ -1,0 +1,150 @@
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Assets\ApplicationIcon.png
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.dll
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.pdb
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\resources.pri
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\AppxManifest.xml
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.build.appxrecipe
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Properties\WMAppManifest.xml
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\AppManifest.xaml
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity_Debug_AnyCPU.xap
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\App.g.cs
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\MainPage.g.cs
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.g.resources
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.Resources.AppResources.resources
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.csproj.GenerateResource.Cache
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.dll
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.pdb
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\priconfig.xml
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\priconfig.xml.intermediate
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\layout.resfiles
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\layout.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\resources.resfiles
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\resources.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\pri.resfiles
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\pri.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\qualifiers.txt
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\qualifiers.txt.intermediate
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\ProjectArchitectures.txt
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\MDILProjectFiles.xml
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\XapCacheFile.xml
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Newtonsoft.Json.dll
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\System.Net.Http.dll
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\System.Net.Http.Extensions.dll
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\System.Net.Http.Primitives.dll
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\Bin\Debug\Newtonsoft.Json.xml
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.csprojResolveAssemblyReference.cache
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\Page1PictureList.g.cs
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http.pri
+E:\Project Eye Pointer\Eye Pointer\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\qualifiers.txt
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Assets\ApplicationIcon.png
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.dll
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.pdb
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\resources.pri
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\AppxManifest.xml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.build.appxrecipe
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Properties\WMAppManifest.xml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\AppManifest.xaml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity_Debug_AnyCPU.xap
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Newtonsoft.Json.dll
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\Bin\Debug\Newtonsoft.Json.xml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\App.g.cs
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\MainPage.g.cs
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\Page1PictureList.g.cs
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\ViewPhoto.g.cs
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.g.resources
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.Resources.AppResources.resources
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.csproj.GenerateResource.Cache
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.dll
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.pdb
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http.pri
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\qualifiers.txt
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\priconfig.xml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\priconfig.xml.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\layout.resfiles
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\layout.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\resources.resfiles
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\resources.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\pri.resfiles
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\pri.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\qualifiers.txt
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\qualifiers.txt.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\ProjectArchitectures.txt
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\MDILProjectFiles.xml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\XapCacheFile.xml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\VideoStreaming.g.cs
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.csprojResolveAssemblyReference.cache
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\SingleVideoPage.g.cs
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\layout.resfiles
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\Resources.resfiles
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\pri.resfiles
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\priconfig.xml
+E:\Project Eye Pointer\Eye Pointer\Main Project Parts\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Assets\ApplicationIcon.png
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.dll
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.pdb
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\resources.pri
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\AppxManifest.xml
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity.build.appxrecipe
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Properties\WMAppManifest.xml
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\AppManifest.xaml
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\PointerSecurity_Debug_AnyCPU.xap
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Newtonsoft.Json.dll
+E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\Newtonsoft.Json.xml
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\App.g.cs
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\MainPage.g.cs
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\Page1PictureList.g.cs
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\SingleVideoPage.g.cs
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\VideoStreaming.g.cs
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\ViewPhoto.g.cs
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.g.resources
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.Resources.AppResources.resources
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.csproj.GenerateResource.Cache
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.dll
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\PointerSecurity.pdb
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http.pri
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\qualifiers.txt
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\priconfig.xml
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\priconfig.xml.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\layout.resfiles
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\layout.resfiles.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\resources.resfiles
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\resources.resfiles.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\pri.resfiles
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\pri.resfiles.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\qualifiers.txt
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\qualifiers.txt.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\ProjectArchitectures.txt
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\MDILProjectFiles.xml
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\XapCacheFile.xml
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\layout.resfiles
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\Resources.resfiles
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\pri.resfiles
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\priconfig.xml
+E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Debug\System.Net.Http\priconfig.xml.intermediate

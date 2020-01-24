@@ -1,0 +1,40 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PointerSecurity.ViewPhoto"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="#FFECEFF4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,35,0,10">
+            <TextBlock Text="Pointer Security" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF131212"/>
+            <TextBlock Text="selected photo" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="#FF131212"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Image x:Name="Picture" Source="{Binding}" HorizontalAlignment="Left" Height="500" VerticalAlignment="Top" Width="456" Stretch="Fill" Margin="0,27,0,0"/>
+            <TextBlock Text="Photo" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF131212" Margin="0,0,12,580"/>
+            <Button x:Name="Actionbtn" Content="Take Action" HorizontalAlignment="Left" Margin="0,532,0,0" VerticalAlignment="Top" Height="75" Width="456" Background="#FF3374DE" BorderBrush="#FF2E4042" Click="Actionbtn_Click"/>
+
+        </Grid>
+        <TextBlock x:Name="Loading" Text="Loading" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FF131212" Margin="10,0,395,134"/>
+        <ProgressBar x:Name="pgr" HorizontalAlignment="Left" Height="27" Margin="90,0,0,0" VerticalAlignment="Top" Width="390" Value="-1" IsIndeterminate="True" Foreground="#FF2448A8"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

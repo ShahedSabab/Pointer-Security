@@ -1,0 +1,28 @@
+﻿<xapCache source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Release\PointerSecurity_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/28/2015 7:46:08 PM">
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="4/28/2015 7:46:03 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Release\PointerSecurity.dll" archivePath="PointerSecurity.dll" lastWriteTime="4/28/2015 7:46:00 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/28/2015 7:46:07 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/5/2015 2:16:22 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="4/5/2015 2:28:02 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="12/11/2014 1:08:32 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="12/11/2014 1:08:32 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Debug\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="12/11/2014 1:08:32 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="4/5/2015 2:28:02 AM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Assets\Mobile.png" archivePath="Assets\Mobile.png" lastWriteTime="4/8/2015 5:41:58 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/28/2015 7:46:07 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="4/28/2015 7:46:07 PM" />
+  <file source="E:\Tomal Project\PointerSecurity\PointerSecurity\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="4/28/2015 7:46:03 PM" />
+</xapCache>
